@@ -27,6 +27,7 @@ require (
 	github.com/golangci/revgrep v0.0.0-20180812185044-276a5c0a1039 // indirect
 	github.com/gostaticanalysis/analysisutil v0.0.2 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.9.4 // indirect
+	github.com/joho/godotenv v1.3.0
 	github.com/kisielk/errcheck v1.2.0 // indirect
 	github.com/klauspost/compress v1.7.2 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
